@@ -1,2 +1,1 @@
 print("hahaha")
-library("asnkaks")
